@@ -1,16 +1,13 @@
 ## 🔥 Motto
 
-<h3 align="center">🔥 "Set your heart ablaze." 🔥</h3>
-<p align="center"><sub>— Flame Hashira Rengoku, Demon Slayer</sub></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&color=FF6B35&center=true&vCenter=true&width=700&loop=false&lines=%F0%9F%94%A5+Set+your+heart+ablaze.+%F0%9F%94%A5;%E2%80%94+Flame+Hashira+Rengoku%2C+Demon+Slayer" alt="Motto" />
+</p>
 
 ## 💬 Quote of the Month
 
 <p align="center">
-  <blockquote>
-    <em>"Keep moving forward. No matter what, keep pushing."</em>
-    <br/>
-    — Tanjiro Kamado, Demon Slayer
-  </blockquote>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&color=7EB8F7&center=true&vCenter=true&width=750&loop=false&lines=Keep+moving+forward.+No+matter+what%2C+keep+pushing.;%E2%80%94+Tanjiro+Kamado%2C+Demon+Slayer" alt="Quote of the Month" />
 </p>
 
 ---
@@ -87,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Usman-Ghani123&layout=compact&theme=tokyonight&hide_border=true" alt="Usman's Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Usman-Ghani123&layout=donut&theme=tokyonight&hide_border=true" alt="Usman's Most Used Languages" />
 </p>
 
 ---
