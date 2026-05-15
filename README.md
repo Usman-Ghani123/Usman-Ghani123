@@ -37,10 +37,10 @@
   <img src="https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/WebdriverIO-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20Code-%23CC785C.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pythagora-%23000000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pythagora-%239B59B6.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
