@@ -1,3 +1,20 @@
+## 🔥 Motto
+
+<h3 align="center">🔥 "Set your heart ablaze." 🔥</h3>
+<p align="center"><sub>— Flame Hashira Rengoku, Demon Slayer</sub></p>
+
+## 💬 Quote of the Month
+
+<p align="center">
+  <blockquote>
+    <em>"Keep moving forward. No matter what, keep pushing."</em>
+    <br/>
+    — Tanjiro Kamado, Demon Slayer
+  </blockquote>
+</p>
+
+---
+
 <h1 align="center">Hi, I'm Usman Ghani 👋</h1>
 
 <p align="center">
@@ -71,26 +88,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Usman-Ghani123&layout=compact&theme=tokyonight&hide_border=true" alt="Usman's Most Used Languages" />
-</p>
-
----
-
-## 🔥 Motto
-
-<p align="center">
-  <em>"Set your heart ablaze."</em> — Flame Hashira Rengoku, Demon Slayer
-</p>
-
----
-
-## 💬 Quote of the Month
-
-<p align="center">
-  <blockquote>
-    <em>"Keep moving forward. No matter what, keep pushing."</em>
-    <br/>
-    — Tanjiro Kamado, Demon Slayer
-  </blockquote>
 </p>
 
 ---
