@@ -1,13 +1,17 @@
 ## 🔥 Motto
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&color=FF6B35&center=true&vCenter=true&width=700&loop=false&lines=%F0%9F%94%A5+Set+your+heart+ablaze.+%F0%9F%94%A5;%E2%80%94+Flame+Hashira+Rengoku%2C+Demon+Slayer" alt="Motto" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&color=FF6B35&center=true&vCenter=true&width=700&duration=3000&pause=99999&lines=%F0%9F%94%A5+Set+your+heart+ablaze.+%F0%9F%94%A5" alt="Motto" />
+  <br/>
+  <sub>— Flame Hashira Rengoku, Demon Slayer</sub>
 </p>
 
 ## 💬 Quote of the Month
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&color=7EB8F7&center=true&vCenter=true&width=750&loop=false&lines=Keep+moving+forward.+No+matter+what%2C+keep+pushing.;%E2%80%94+Tanjiro+Kamado%2C+Demon+Slayer" alt="Quote of the Month" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&color=7EB8F7&center=true&vCenter=true&width=750&duration=4000&pause=99999&lines=Keep+moving+forward.+No+matter+what%2C+keep+pushing." alt="Quote of the Month" />
+  <br/>
+  <sub>— Tanjiro Kamado, Demon Slayer</sub>
 </p>
 
 ---
